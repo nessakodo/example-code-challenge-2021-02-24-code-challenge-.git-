@@ -18,7 +18,6 @@ let watchStatus;
 let id;
 
 
-
 // fetch data and add images to movie list element
 
 fetch  ("http://localhost:3000/movies")
